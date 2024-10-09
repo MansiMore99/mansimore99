@@ -5,15 +5,13 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mansimore99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-<h3 align="left">About Me:</h3>
-- 💬 Ask me about **Data, Machine Learning, and AI**
-- 📫 Reach me at **mansi.more943@gmail.com**
+- 💬 Ask me about **Data, Machine learning**
 
+- 📫 How to reach me **mansi.more943@gmail.com**
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -31,7 +29,6 @@
   </a>
 </p>
 
----
 
 <h3 align="left">Tech Stack:</h3>
 <div class="tech-logos" align="center">
@@ -74,14 +71,14 @@
 
 <br>
 
-
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MansiMore99&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiMore99&theme=radical&hide_border=true" alt="GitHub Streak" /><br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiMore99&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
-
 
 
 <h3 align="left">Top Contributed Repositories:</h3>
