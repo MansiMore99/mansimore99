@@ -8,6 +8,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mansimore99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
+<br>
 
 
 
@@ -15,6 +16,7 @@
 
 - 📫 How to reach me **mansi.more943@gmail.com**
 
+<br>
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -38,6 +40,7 @@
 
 
 <h3 align="left">Tech Stack:</h3>
+<br>
 <div class="tech-logos" align="center">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
