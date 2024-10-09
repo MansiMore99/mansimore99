@@ -9,9 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=mansimore99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
+
 - 💬 Ask me about **Data, Machine learning**
 
 - 📫 How to reach me **mansi.more943@gmail.com**
+
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -28,6 +30,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" alt="X (formerly Twitter)" height="30" width="40" />
   </a>
 </p>
+<br>
 
 
 
