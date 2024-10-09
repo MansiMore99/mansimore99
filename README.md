@@ -20,6 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mansi-more-0943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi more" height="30" width="40" /></a>
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@mansi.more943) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/MansiMore99) 
 <a href="https://instagram.com/mansi.more_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansi.more_09" height="30" width="40" /></a>
 </p>
 
@@ -31,4 +33,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansimore99&show_icons=true&locale=en" alt="mansimore99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansimore99&" alt="mansimore99" /></p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MansiMore99&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MansiMore99&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MansiMore99&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MansiMore99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
