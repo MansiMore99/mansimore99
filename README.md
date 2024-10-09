@@ -10,14 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=mansimore99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-### About Me:
+<h3 align="left">About Me:</h3>
 - 💬 Ask me about **Data, Machine Learning, and AI**
 - 📫 Reach me at **mansi.more943@gmail.com**
-- 🔗 Connect with me on LinkedIn [here](https://linkedin.com/in/mansi-more-0943)
 
----
 
-### 🌐 Connect with Me:
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mansi-more-0943" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -75,20 +73,20 @@
 </div>
 
 <br>
----
 
-### 📊 GitHub Stats:
+
+<h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MansiMore99&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiMore99&theme=radical&hide_border=true" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiMore99&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
----
 
-### 🏆 Top Contributed Repositories:
+
+<h3 align="left">Top Contributed Repositories:</h3>
 <p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=MansiMore99&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
----
+
