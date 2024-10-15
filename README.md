@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mansi.more943@gmail.com**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@mansi.more943)
+- 📝 I write articles on [Medium](https://medium.com/@mansi.more943)
 
 <br>
 
