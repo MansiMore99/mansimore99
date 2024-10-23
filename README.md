@@ -1,4 +1,4 @@
-![github_img](https://github.com/user-attachments/assets/0f4af2a1-cd76-468c-91e4-88377c4c1115)
+<img width="1226" alt="Screenshot 2024-10-22 at 5 02 11 PM" src="https://github.com/user-attachments/assets/c3762a43-303e-4bb2-9984-42c888814238">
 
 <h1 align="center">Hello! 👋, I'm Mansi</h1>
 
