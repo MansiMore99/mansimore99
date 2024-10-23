@@ -1,3 +1,5 @@
+![github_img](https://github.com/user-attachments/assets/0f4af2a1-cd76-468c-91e4-88377c4c1115)
+
 <h1 align="center">Hello! 👋, I'm Mansi</h1>
 
 <p align="center">
