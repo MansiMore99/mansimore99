@@ -3,7 +3,7 @@
 <h1 align="center">Hello! 👋, I'm Mansi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer!;A+Passionate+Data+Scientist!;Join+me+at+AI?Tech+events+in+SF!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer!;A+Passionate+Data+Scientist!;Join+me+at+AI/Tech+events+in+SF!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
