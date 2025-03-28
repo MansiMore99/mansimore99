@@ -1,4 +1,6 @@
 <img width="1226" alt="Screenshot 2024-10-22 at 5 02 11 PM" src="https://github.com/user-attachments/assets/c3762a43-303e-4bb2-9984-42c888814238">
+<img width="1440" alt="Screenshot 2025-03-26 at 2 03 51 PM" src="https://github.com/user-attachments/assets/8cfe3f04-1639-4480-8683-8cb39c80cb14" />
+
 
 <h1 align="center">Hello! 👋, I'm Mansi</h1>
 
