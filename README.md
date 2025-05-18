@@ -6,6 +6,29 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer!;A+Full+Stack+Data+Scientist!;Join+me+at+AI/Tech+events+in+SF!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansimore99&label=Profile%20views&color=0e75b6&style=flat" alt="mansimore99" /> </p>
+
+<p align="left"> <a href="https://twitter.com/mansimore99" target="blank"><img src="https://img.shields.io/twitter/follow/mansimore99?logo=twitter&style=for-the-badge" alt="mansimore99" /></a> </p>
+<br>
+
+- 💬 Ask me about **Data, Machine learning**
+
+- 📫 How to reach me **mansi.more943@gmail.com**
+
+- 📝 I write articles on [Medium](https://medium.com/@mansi.more943)
+
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mansimore99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansimore99" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mansimore9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansi-more-0943/" height="30" width="40" /></a>
+<a href="https://medium.com/@mansi.more943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansi.more943" height="30" width="40" /></a>
+<a href="https://instagram.com//mansi.more__09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/mansi.more__09" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tech_girl-m9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech_girl-m9" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Tech Stack:</h3>
 <br>
 <div class="tech-logos" align="center">
@@ -48,30 +71,6 @@
 <br>
 
 <img width="1440" alt="Screenshot 2025-03-26 at 2 03 51 PM" src="https://github.com/user-attachments/assets/8cfe3f04-1639-4480-8683-8cb39c80cb14" />
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansimore99&label=Profile%20views&color=0e75b6&style=flat" alt="mansimore99" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mansimore99" target="blank"><img src="https://img.shields.io/twitter/follow/mansimore99?logo=twitter&style=for-the-badge" alt="mansimore99" /></a> </p>
-<br>
-
-- 💬 Ask me about **Data, Machine learning**
-
-- 📫 How to reach me **mansi.more943@gmail.com**
-
-- 📝 I write articles on [Medium](https://medium.com/@mansi.more943)
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mansimore99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansimore99" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mansimore9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansi-more-0943/" height="30" width="40" /></a>
-<a href="https://medium.com/@mansi.more943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansi.more943" height="30" width="40" /></a>
-<a href="https://instagram.com//mansi.more__09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/mansi.more__09" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@tech_girl-m9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech_girl-m9" height="30" width="40" /></a>
-</p>
-
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
