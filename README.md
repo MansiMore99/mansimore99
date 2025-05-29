@@ -85,15 +85,14 @@
     <img src="https://img.shields.io/badge/Docker-%23024947.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
     <img src="https://img.shields.io/badge/Jenkins-%23D33833.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-    <img src="https://img.shields.io/badge/OpenAI-414047?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI LLM" />
-    <img src="https://img.shields.io/badge/Google%20AI%20APIs-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google AI APIs" />
+  <img src="https://img.shields.io/badge/Google%20AI%20APIs-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google AI APIs" />
     <img src="https://img.shields.io/badge/Salesforce%20Agentforce-%230078D1.svg?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Agentforce" />
     <img src="https://img.shields.io/badge/Zoom%20Developer%20Platform-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom Developer Platform" />
     <img src="https://img.shields.io/badge/pgvector-%23003222.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
     <img src="https://img.shields.io/badge/Vector%20DBs-%23563D7C.svg?style=for-the-badge" alt="Vector Databases" />
     <img src="https://img.shields.io/badge/ETL%20Pipelines-%23034F84.svg?style=for-the-badge" alt="ETL Pipelines" />
     <img src="https://img.shields.io/badge/RAG-%23A142F4.svg?style=for-the-badge" alt="Retrieval‑Augmented Generation (RAG)" />
-    <img src="https://img.shields.io/badge/Model%20Monitoring-%23FF6F00.svg?style=for-the-badge" alt="Model Monitoring" />
+    <img src="https://img.shields.io/badge/Model%20Monitoring-%23FF6F00.svg?style=for-the-badge" alt="Model Building" />
     <img src="https://img.shields.io/badge/Feature%20Engineering-%232E3B4E.svg?style=for-the-badge" alt="Feature Engineering" />
     <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-%23E34F26.svg?style=for-the-badge" alt="Hyperparameter Tuning" />
     <img src="https://img.shields.io/badge/Semantic%20Search-%23FF4500.svg?style=for-the-badge" alt="Semantic Search" />
