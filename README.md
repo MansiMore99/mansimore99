@@ -32,7 +32,6 @@
 <h3 align="left">Tech Stack:</h3>
 <br>
 <div class="tech-logos" align="center">
-    <!-- Existing badges -->
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -68,8 +67,6 @@
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-
-    <!-- Newly added badges -->
     <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/Hugging%20Face-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
     <img src="https://img.shields.io/badge/LangChain-%234EB99F.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
