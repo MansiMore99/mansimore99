@@ -42,7 +42,6 @@
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -70,12 +69,7 @@
     <img src="https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" alt="SQL" />
     <img src="https://img.shields.io/badge/Hugging%20Face-%23FF9900.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
     <img src="https://img.shields.io/badge/LangChain-%234EB99F.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-    <img src="https://img.shields.io/badge/Random%20Forest-%23F0DB4F.svg?style=for-the-badge" alt="Random Forest" />
-    <img src="https://img.shields.io/badge/LightGBM-%2300A858.svg?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
-    <img src="https://img.shields.io/badge/XGBoost-%23EA1E63.svg?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
-    <img src="https://img.shields.io/badge/CatBoost-%23F17E02.svg?style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost" />
     <img src="https://img.shields.io/badge/NLP-%230079D6.svg?style=for-the-badge" alt="NLP" />
-    <img src="https://img.shields.io/badge/Prompt%20Engineering-%23FFC107.svg?style=for-the-badge" alt="Prompt Engineering" />
     <img src="https://img.shields.io/badge/Fine-tuning-%234CAF50.svg?style=for-the-badge" alt="Fine-tuning" />
     <img src="https://img.shields.io/badge/Conversational%20AI-%23007ACC.svg?style=for-the-badge" alt="Conversational AI" />
     <img src="https://img.shields.io/badge/GCP%20Vertex%20AI-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
@@ -90,12 +84,7 @@
     <img src="https://img.shields.io/badge/Zoom%20Developer%20Platform-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom Developer Platform" />
     <img src="https://img.shields.io/badge/pgvector-%23003222.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
     <img src="https://img.shields.io/badge/Vector%20DBs-%23563D7C.svg?style=for-the-badge" alt="Vector Databases" />
-    <img src="https://img.shields.io/badge/ETL%20Pipelines-%23034F84.svg?style=for-the-badge" alt="ETL Pipelines" />
     <img src="https://img.shields.io/badge/RAG-%23A142F4.svg?style=for-the-badge" alt="Retrieval‑Augmented Generation (RAG)" />
-    <img src="https://img.shields.io/badge/Model%20Monitoring-%23FF6F00.svg?style=for-the-badge" alt="Model Building" />
-    <img src="https://img.shields.io/badge/Feature%20Engineering-%232E3B4E.svg?style=for-the-badge" alt="Feature Engineering" />
-    <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-%23E34F26.svg?style=for-the-badge" alt="Hyperparameter Tuning" />
-    <img src="https://img.shields.io/badge/Semantic%20Search-%23FF4500.svg?style=for-the-badge" alt="Semantic Search" />
 </div>
 <br>
 
