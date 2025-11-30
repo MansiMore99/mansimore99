@@ -16,29 +16,41 @@
 - 🌍 Portfolio: mansimore.dev
 - ✍️ Articles: medium.com/@mansi.more943
 
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<!-- Portfolio / Website -->
 <a href="https://mansimore.dev" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/googlechrome/000000" alt="mansimore.dev" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/briefcase/000000" alt="portfolio" height="30" width="40" />
 </a>
+
+<!-- Twitter -->
 <a href="https://twitter.com/mansimore99" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansimore99" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
+
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mansimore9/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi linkedin" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
+
+<!-- Medium -->
 <a href="https://medium.com/@mansi.more943" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansi.more943" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
 </a>
+
+<!-- Instagram -->
 <a href="https://instagram.com/mansi.more__09" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mansi.more__09" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
+
+<!-- YouTube -->
 <a href="https://www.youtube.com/@tech_girl-m9" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech_girl-m9" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
 </a>
+
 </p>
+
 
 
 <h3 align="left">Tech Stack:</h3>
