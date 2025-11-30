@@ -17,39 +17,37 @@
 - ✍️ Articles: medium.com/@mansi.more943
 
 <h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<!-- Portfolio / Website -->
+<!-- Portfolio -->
 <a href="https://mansimore.dev" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/briefcase/000000" alt="portfolio" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="portfolio" height="30" width="40" />
 </a>
 
-<!-- Twitter -->
-<a href="https://twitter.com/mansimore99" target="blank">
+<a href="https://twitter.com/mansimore99" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/mansimore9/" target="blank">
+<a href="https://www.linkedin.com/in/mansimore9/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<!-- Medium -->
-<a href="https://medium.com/@mansi.more943" target="blank">
+<a href="https://medium.com/@mansi.more943" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
 </a>
 
-<!-- Instagram -->
-<a href="https://instagram.com/mansi.more__09" target="blank">
+<a href="https://instagram.com/mansi.more__09" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 
-<!-- YouTube -->
-<a href="https://www.youtube.com/@tech_girl-m9" target="blank">
+<a href="https://www.youtube.com/@tech_girl-m9" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
 </a>
 
 </p>
+
 
 
 
