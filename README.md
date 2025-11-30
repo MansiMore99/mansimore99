@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mansimore.dev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="mansimore.dev" height="30" width="40" />
+<a href="https://mansimore.dev" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/googlechrome/000000" alt="mansimore.dev" height="30" width="40" />
 </a>
 <a href="https://twitter.com/mansimore99" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansimore99" height="30" width="40" />
