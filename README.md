@@ -23,7 +23,7 @@
 
 <!-- Portfolio -->
 <a href="https://mansimore.dev" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/global.svg" alt="portfolio" height="30" width="40" />
+<img width="40" height="30" alt="image" src="https://github.com/user-attachments/assets/b8f0ac23-a31f-44fb-a02a-b17d57b82877" />
 </a>
 
 <!-- Twitter -->
