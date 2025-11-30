@@ -12,11 +12,9 @@
 <p align="left"> <a href="https://twitter.com/mansimore99" target="blank"><img src="https://img.shields.io/twitter/follow/mansimore99?logo=twitter&style=for-the-badge" alt="mansimore99" /></a> </p>
 <br>
 
-- 💬 Ask me about **Data, Machine learning**
-
-- 📫 How to reach me **mansi.more943@gmail.com**
-
-- 📝 I write articles on [Medium](https://medium.com/@mansi.more943)
+📫 Reach me: mansi.more943@gmail.com
+🌍 Portfolio: mansimore.dev
+✍️ Articles: https://medium.com/@mansi.more943
 
 <br>
 
