@@ -77,7 +77,7 @@
 </div>
 <br>
 
-<img width="1440" alt="Screenshot 2025-03-26 at 2 03 51 PM" src="https://github.com/user-attachments/assets/8cfe3f04-1639-4480-8683-8cb39c80cb14" />
+<img width="1976" height="1114" alt="image" src="https://github.com/user-attachments/assets/ca14a107-d3d7-4f4b-8b0f-dd3ec6777a00" />
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
