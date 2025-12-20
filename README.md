@@ -12,8 +12,8 @@
 <p align="left"> <a href="https://twitter.com/mansimore99" target="blank"><img src="https://img.shields.io/twitter/follow/mansimore99?logo=twitter&style=for-the-badge" alt="mansimore99" /></a> </p>
 <br>
 
-- 📫 Reach me: mansi.more943@gmail.com
-- 🌍 Portfolio: mansimore.dev
+- 📫 Reach out to me: mansi.more943@gmail.com
+- 🌍 Portfolio: https://mansimore.dev
 - ✍️ Articles: medium.com/@mansi.more943
 
 <br> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/mansimore99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mansimore99" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/mansimore9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mansi-more-0943/" height="30" width="40" /></a> <a href="https://medium.com/@mansi.more943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansi.more943" height="30" width="40" /></a> <a href="https://instagram.com//mansi.more__09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/mansi.more__09" height="30" width="40" /></a> <a href="https://www.youtube.com/@tech_girl-m9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech_girl-m9" height="30" width="40" /></a> </p>
