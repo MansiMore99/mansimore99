@@ -77,7 +77,7 @@
 </div>
 <br>
 
-<img width="1976" height="1114" alt="image" src="https://github.com/user-attachments/assets/ca14a107-d3d7-4f4b-8b0f-dd3ec6777a00" />
+<img width="1005" height="569" alt="image" src="https://github.com/user-attachments/assets/69fc118b-90b1-4ca2-adab-63e0121cc9dc" />
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
